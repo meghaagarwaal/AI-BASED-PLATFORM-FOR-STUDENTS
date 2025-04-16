@@ -47,7 +47,7 @@ An intelligent platform designed to help students and aspiring entrepreneurs mak
 
 1. **Clone the repository**
 ```bash
-git clone [repository-url]
+git clone [https://github.com/meghaagarwaal/AI-BASED-PLATFORM-FOR-STUDENTS]
 ```
 
 2. **Frontend Setup**
@@ -105,11 +105,6 @@ http://localhost:8000/docs
   - Input: industry name
   - Output: trend data and analysis
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
-## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
